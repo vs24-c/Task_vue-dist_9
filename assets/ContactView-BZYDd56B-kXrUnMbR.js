@@ -1,0 +1,1 @@
+import{m as n,C as s,S as t,U as o}from"./index-bUbSashS.js";const r={},e={class:"about"};function u(c,a){return t(),s("div",e,a[0]||(a[0]=[o("h1",null,"This is an about page",-1)]))}const l=n(r,[["render",u]]);export{l as default};
